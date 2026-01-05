@@ -70,9 +70,9 @@ In late 2025, RevisionDojo appears to have acquired [Oneprep](oneprep.xyz), a fr
 
 ### Evidence of Acquisition
 
-1. **Employment records:** The person managing Oneprep's new Discord server has a public LinkedIn profile showing employment at RevisionDojo since May 2025 in "Content and Product Development for SAT."
+1. **Employment records:** The [person managing Oneprep's](https://www.linkedin.com/in/scott-robinson-958451316/) new Discord server has a public LinkedIn profile showing employment at RevisionDojo since May 2025 in "Content and Product Development for SAT."
 
-2. **Developer departure:** The original Oneprep developer's public LinkedIn profile shows his relationship with Oneprep ended in October 2025.
+2. **Developer departure:** The [original Oneprep developer's public LinkedIn profile](https://www.linkedin.com/in/abdullah-mallik/) shows his relationship with Oneprep ended in October 2025.
 
 3. **Platform changes:** Since the transition, Oneprep has:
 - Added non-official practice tests [containing errors](<https://www.reddit.com/r/Sat/comments/1p8p70y/comment/nr83gkp/>)
@@ -102,13 +102,16 @@ The 2,000+ upvote post is simply the most visible example of a broader, ongoing 
 
 All claims in this document can be independently verified:
 
-1. **LinkedIn profiles:** Search for the Oneprep Discord manager's name (visible in the Discord server) on LinkedIn. Search for the original Oneprep developer.
+1. **LinkedIn profiles:**
+   https://www.linkedin.com/in/scott-robinson-958451316/
+   https://www.linkedin.com/in/abdullah-mallik/
+   
 
-2. **Trustpilot pattern:** Visit [Oneprep's Trustpilot page](<https://www.trustpilot.com/review/oneprep.xyz>) and sort reviews by date.
+3. **Trustpilot pattern:** Visit [Oneprep's Trustpilot page](<https://www.trustpilot.com/review/oneprep.xyz>) and sort reviews by date.
 
-3. **Reddit threads:** All linked threads are public. They are also archived on [Wayback Machine](<https://web.archive.org/>) if removed.
+4. **Reddit threads:** All linked threads are public. They are also archived on [Wayback Machine](<https://web.archive.org/>) if removed.
 
-4. **Moderator confirmation:** The r/IBO moderator statement is visible in the linked thread.
+5. **Moderator confirmation:** The r/IBO moderator statement is visible in the linked thread.
 
 ---
 
