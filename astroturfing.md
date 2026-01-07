@@ -66,34 +66,39 @@ Despite years on the market and significant funding, students consistently repor
 
 ---
 
+
 ## Expansion to SAT Prep: Oneprep Acquisition
 
 In late 2025, RevisionDojo appears to have acquired Oneprep, a free SAT preparation tool that was popular on r/sat for practicing official College Board questions.
 
 ### Sources on Acquisition
 
-1. **Employment records:** The person managing Oneprep's new Discord server had a public LinkedIn profile showing employment at RevisionDojo since May 2025 in "Content and Product Development for SAT." **After this was made public, the RevisionDojo employment was removed from the profile.**
+1. **RevisionDojo team page:** The person managing Oneprep's Discord server appears on RevisionDojo's official team page as a "Content Author." The bio mentions being a "1550 SAT scorer" and running SAT prep—directly connecting RevisionDojo to SAT test preparation.
+- [RevisionDojo team page](https://www.revisiondojo.com/content-philosophy)
+- [Screenshot of team page](./revisiondojo-team-page.png)
+
+2. **LinkedIn records (scrubbed):** The same person's LinkedIn profile previously showed employment at RevisionDojo since May 2025 in "Content and Product Development for SAT." **After this was made public, the RevisionDojo employment was removed from the profile.**
 - [Screenshot of LinkedIn profile (archived before removal)](./discord-manager-linkedin.png)
 - [Screenshot showing Discord manager role](./discord-manager-role.png)
 
-2. **Developer departure:** The original Oneprep developer's public LinkedIn profile showed his relationship with Oneprep ended in October 2025. **After this was made public, the end date was changed to "Present."**
+3. **Developer departure:** The original Oneprep developer's public LinkedIn profile showed his relationship with Oneprep ended in October 2025. **After this was made public, the end date was changed to "Present."**
 - [Screenshot of original developer LinkedIn (archived before change)](./original-developer-linkedin.png)
 
-3. **Confirmed use of College Board questions:** When asked directly in Discord, the platform manager confirmed OnePrep still uses College Board questions.
+4. **Confirmed use of College Board questions:** When asked directly in Discord, the platform manager confirmed OnePrep still uses College Board questions.
 - [Screenshot of Discord confirmation](./discord-cb-questions-confirmation.png)
 
-**Note:** The immediate modification of LinkedIn profiles after this information was published suggests an attempt to obscure the RevisionDojo-Oneprep connection. All screenshots were archived before these changes.
+**Note:** The immediate modification of LinkedIn profiles after this information was published suggests an attempt to obscure the RevisionDojo-Oneprep connection. All screenshots were archived before these changes. The RevisionDojo team page listing remains live.
 
-4. **Platform changes:** Since the transition, Oneprep has:
+5. **Platform changes:** Since the transition, Oneprep has:
 - Added non-official practice tests [containing errors](https://www.reddit.com/r/Sat/comments/1p8p70y/comment/nr83gkp/)
-- [Renamed official College Board content to evade copyright scrutiny](https://www.reddit.com/r/Sat/comments/1pcb965/what_is_navybook_bluebook_on_oneprep/) from "Bluebook" to "Navybook"
+- [Renamed official College Board content](https://www.reddit.com/r/Sat/comments/1pcb965/what_is_navybook_bluebook_on_oneprep/) from "Bluebook" to "Navybook"
 - Begun [offering students $20 for TikTok promotions](https://www.reddit.com/r/Sat/comments/1p9bcfs/somebody_bought_out_oneprep/)
 
 ### Same Patterns Emerging
 
 Since the acquisition, the same manipulation tactics documented on r/IBO have appeared on r/sat:
 
-1. **Bulk Trustpilot reviews:** Oneprep received approximately 150 Trustpilot reviews in a 9-day window (November 30 – December 8, 2025), with most concentrated on December 4–5. No reviews appear before or weeks after this window. ([Trustpilot page](https://www.trustpilot.com/review/oneprep.xyz))
+1. **Bulk Trustpilot reviews:** Oneprep received approximately 150 Trustpilot reviews in a 9-day window (November 30 – December 8, 2025), with most concentrated on December 4–5. No reviews appear before or after this window. ([Trustpilot page](https://www.trustpilot.com/review/oneprep.xyz))
 
 2. **Widespread coordinated Reddit manipulation:** Multiple accounts are running coordinated promotional campaigns on r/sat. The most prominent example: during the December 2025 SAT score release, a post reached 2,000+ upvotes before moderators identified and removed it. The post followed the established pattern—account posts achievement, praises Oneprep in comments, coordinated accounts upvote and leave supportive comments to create artificial buzz.
 
@@ -140,6 +145,7 @@ All claims in this document can be independently verified:
 
 - Funding: https://www.revisiondojo.com/fundraise
 - Pricing: https://www.revisiondojo.com/pricing
+- Team page (Content Authors): https://www.revisiondojo.com/content-philosophy
 
 ### Reddit Sources (r/IBO)
 
@@ -182,6 +188,7 @@ All claims in this document can be independently verified:
 
 **Note:** LinkedIn profiles were modified after this information was published. These screenshots were captured before the changes.
 
+- `revisiondojo-team-page.png` — RevisionDojo team page showing Discord manager as "Content Author"
 - `discord-manager-linkedin.png` — LinkedIn profile showing RevisionDojo employment (since removed from profile)
 - `discord-manager-role.png` — Discord showing manager role on OnePrep server
 - `discord-cb-questions-confirmation.png` — Manager confirming use of College Board questions
@@ -190,6 +197,5 @@ All claims in this document can be independently verified:
 ---
 
 _This document compiles publicly available information. All claims are sourced. Last updated: January 6, 2026_
-```
 
 ---
